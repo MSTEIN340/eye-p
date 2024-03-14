@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "",
+  "title": "",
+  "category": "text",
+  "icon": "",
+  "description": "Adds a header with a hover effect",
+  "keywords": [ ],
+  "version": "1",
+  "textdomain": "ms-block-demo",
+  "editorScript": "file:./index.js",
+  "attributes": {
+
+  },
+  "style": "file:./index.css"
+}

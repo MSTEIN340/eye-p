@@ -1,0 +1,9 @@
+/node_modules/
+/build/
+<<<<<<< HEAD
+**/main.map.css
+**/index.asset.php
+=======
+**/main.css.map
+
+>>>>>>> MAS-WEB-BLOCKS
