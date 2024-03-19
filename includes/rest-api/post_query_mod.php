@@ -1,6 +1,6 @@
 <?php
 
-function ms_rest_post_query($args, $request) {
+function eye_p_rest_post_query($args, $request) {
     /*
      * $orderBy = $request->get_param('orderByRating')
      * if(isset($orderBy))

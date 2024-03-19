@@ -1,0 +1,21 @@
+#iplist {
+  max-height: 500px; // Adjust the height as needed
+  max-width: 100%; // Adjust the width as needed or make it responsive
+  overflow: auto;
+  background-color: whitesmoke;
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+
+    th, td {
+      border: 1px solid #ddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  }
+}
